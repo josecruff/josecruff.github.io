@@ -1,0 +1,89 @@
+body{    
+
+    overflow-x: hidden;
+    
+ }
+.navbar-dark{
+    background-color: aqua;
+}
+.logo{
+    width: 100px;
+    height: auto;
+    display: block;
+    border-radius: 50%;
+}
+.navbar-brand{
+    display: flex;
+}
+	
+.logo_text{
+    padding-left: 15px;
+    padding-top: 25px;
+}
+
+.icons{
+    text-align: center;
+    
+
+}
+
+.container{
+    background-color:#1e2ce9 ;
+    
+}
+
+article{
+    background-color: #1e2ce9;
+    
+}
+
+.verde{
+    
+    padding-left: 280px;
+ color: white;
+ padding-top: 150px;
+ 
+
+  }
+
+.azul{
+
+    padding-top: 100px;
+
+}
+
+.gente{
+    padding-top: 20px;
+color: white;
+background-color: #0c6efc;
+
+}
+
+.perfil{
+    width:300px;
+    height:300px;
+    
+    text-align: center;
+    margin: auto;
+    
+}
+h4{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.profes{
+    width: 100px;
+    height: 100px;
+}
+
+.formulario{color:white;overflow-x: hidden;height: 100%;background-color : #0c6efc ;background-size: 100% 100%;
+}
+.card{padding: 30px 40px;margin-top: 60px;margin-bottom: 60px;border: none !important;box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
+}
+
+.form-control-label{margin-bottom: 0}
+input, textarea, button{padding: 8px 15px;border-radius: 5px !important;margin: 5px 0px;box-sizing: border-box;border: 1px solid #ccc;font-size: 18px !important;font-weight: 300}input:focus, textarea:focus{-moz-box-shadow: none !important;-webkit-box-shadow: none !important;box-shadow: none !important;border: 1px solid #00BCD4;outline-width: 0;font-weight: 400}.btn-block{text-transform: uppercase;font-size: 15px !important;font-weight: 400;height: 43px;cursor: pointer}
+.btn-block:hover{color: #fff !important}
+button:focus{-moz-box-shadow: none !important;-webkit-box-shadow: none !important;box-shadow: none !important;outline-width: 0}
