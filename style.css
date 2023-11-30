@@ -1,89 +1,116 @@
-body{    
-
+body {
     overflow-x: hidden;
+    height: 100%;
+    margin: 0px;
+    background-color: #1e2de8;
     
- }
-.navbar-dark{
+    
+}
+
+.navbar-dark {
     background-color: aqua;
 }
-.logo{
+
+.logo {
     width: 100px;
     height: auto;
     display: block;
     border-radius: 50%;
 }
-.navbar-brand{
+
+.navbar-brand {
     display: flex;
 }
-	
-.logo_text{
+
+.logo_text {
     padding-left: 15px;
     padding-top: 25px;
 }
 
-.icons{
+.icons {
     text-align: center;
-    
-
 }
 
-.container{
-    background-color:#1e2ce9 ;
-    
-}
-
-article{
+.container {
     background-color: #1e2ce9;
-    
+
 }
 
-.verde{
-    
-    padding-left: 280px;
- color: white;
- padding-top: 150px;
- 
+article {
+    background-color: #1e2ce9;
 
-  }
+}
 
-.azul{
+.verde {
+    height: 100px;
+    color: white;
+    background-color: #1e2de8;
+}
+
+
+
+.azul {
 
     padding-top: 100px;
+    padding-bottom: 100px;
 
 }
 
-.gente{
+.gente {
     padding-top: 20px;
+    color: white;
+    background-color: #0c6efc;
+    padding-bottom: 30px;
+}
+
+.perfil {
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin-bottom: 100px;
+ 
+}
+
+h4 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+    list-style: none;
+}
+
+.formulario {
+  
 color: white;
 background-color: #0c6efc;
-
+height: 720px;
+padding: 30px;
 }
 
-.perfil{
-    width:300px;
-    height:300px;
-    
-    text-align: center;
-    margin: auto;
-    
+.inicio{
+color: #0c6efc;
+
+
 }
-h4{
-    text-align: center;
-}
-h3{
-    text-align: center;
-}
-.profes{
-    width: 100px;
-    height: 100px;
+img{
+    height: 600px;
+    width: 600px;
 }
 
-.formulario{color:white;overflow-x: hidden;height: 100%;background-color : #0c6efc ;background-size: 100% 100%;
-}
-.card{padding: 30px 40px;margin-top: 60px;margin-bottom: 60px;border: none !important;box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
+.blanco{
+    background-color:white;
 }
 
-.form-control-label{margin-bottom: 0}
-input, textarea, button{padding: 8px 15px;border-radius: 5px !important;margin: 5px 0px;box-sizing: border-box;border: 1px solid #ccc;font-size: 18px !important;font-weight: 300}input:focus, textarea:focus{-moz-box-shadow: none !important;-webkit-box-shadow: none !important;box-shadow: none !important;border: 1px solid #00BCD4;outline-width: 0;font-weight: 400}.btn-block{text-transform: uppercase;font-size: 15px !important;font-weight: 400;height: 43px;cursor: pointer}
-.btn-block:hover{color: #fff !important}
-button:focus{-moz-box-shadow: none !important;-webkit-box-shadow: none !important;box-shadow: none !important;outline-width: 0}
